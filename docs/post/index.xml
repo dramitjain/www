@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on Dr. Amit Jain</title>
+    <link>https://dramitjain.github.io/www/post/</link>
+    <description>Recent content in Articles on Dr. Amit Jain</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2021 12:00:00 -0500</lastBuildDate><atom:link href="https://dramitjain.github.io/www/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cryptography</title>
+      <link>https://dramitjain.github.io/www/post/paper02/</link>
+      <pubDate>Sat, 02 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://dramitjain.github.io/www/post/paper02/</guid>
+      <description>Modern cryptography is heavily based on mathematical theory and computer science practice; cryptographic algorithms are designed around computational hardness assumptions, making such algorithms hard to break in actual practice by any adversary. While it is theoretically possible to break into a well-designed such system, it is infeasible in actual practice to do so. Such schemes, if well designed, are therefore termed &amp;ldquo;computationally secure&amp;rdquo;; theoretical advances, e.g., improvements in integer factorization algorithms, and faster computing technology require these designs to be continually reevaluated, and if necessary, adapted.</description>
+    </item>
+    
+    <item>
+      <title>Network Security</title>
+      <link>https://dramitjain.github.io/www/post/paper01/</link>
+      <pubDate>Fri, 01 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://dramitjain.github.io/www/post/paper01/</guid>
+      <description>Network security consists of the policies and practices adopted to prevent and monitor unauthorized access, misuse, modification, or denial of a computer network and network-accessible resources.[1] Network security involves the authorization of access to data in a network, which is controlled by the network administrator. Users choose or are assigned an ID and password or other authenticating information that allows them access to information and programs within their authority. Network security covers a variety of computer networks, both public and private, that are used in everyday jobs: conducting transactions and communications among businesses, government agencies and individuals.</description>
+    </item>
+    
+    <item>
+      <title>Digital Image Processing</title>
+      <link>https://dramitjain.github.io/www/post/aiml/</link>
+      <pubDate>Wed, 30 Dec 2020 06:00:16 -0500</pubDate>
+      
+      <guid>https://dramitjain.github.io/www/post/aiml/</guid>
+      <description>Introduction to Digital Image Processing: The digital image processing is a process to perform image processing algorithms on digital images. Digital Image Processing contains the processing of images such as reading, analyzing and manipulating an image, and performing any kind of operation on the same such as improving the information representation of an image, processing the image data for storage, transmission and representation. Digital image processing is used in projects dealing with classification, feature extraction, pattern recognition, etc.</description>
+    </item>
+    
+  </channel>
+</rss>
